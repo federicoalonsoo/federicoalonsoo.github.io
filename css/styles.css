@@ -1,0 +1,82 @@
+body {
+    margin: 0 auto;
+    padding: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #F8F2E8;
+    color: #233544;
+    width: 80%;
+    font-weight: bold;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+ul {
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+}
+
+.logo {
+width: 150px;
+margin: auto;
+border-radius: 100%;
+box-shadow: -4px 4px 2px 1px #233544;
+}
+
+.iconoNav {
+    width: 50px;
+}
+
+.menuIconos {
+    display: inline-block;
+}
+.menuIconos:hover {
+    padding: 0px 10px 0px 10px;
+    
+}
+
+.menu {
+    padding: 20px 0px 20px 0px;
+}
+
+nav {
+    text-align: center;
+    margin-top: 5%;
+}
+
+section {
+    text-align:justify;
+    letter-spacing: 0.7px;
+}
+
+.botonera {
+    text-align: center;
+}
+
+.botones {
+    background-color: #233544;
+    color:#F8F2E8;
+    padding: 15px;
+    border-radius: 5%;
+}
+
+.botones:hover {
+    background-color: #EC5E37;
+    color:#233544;
+}
+
+section li {
+    padding: 25px;
+}
+
+header p:hover {
+    color: #EC5E37;
+}
+
+footer {
+    font-size: 10px;
+    text-align: center;
+}
